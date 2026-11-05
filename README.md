@@ -260,10 +260,6 @@ The project provides practical experience in data preprocessing, machine learnin
 
 <div align="center">
 
-### 👨‍💻 Developed By
-
-# CHETAN KALAGARLA
-
 **Machine Learning | Python | Data Analytics**
 
 <p>
